@@ -1,2 +1,2 @@
-#!/bish/bash
-cd user_name 
+#!/bin/bash
+cd  

@@ -1,2 +1,2 @@
 #!/bin/bash
-chowner -R vicent.staff
+chowner -R vicent staff

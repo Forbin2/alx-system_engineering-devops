@@ -1,2 +1,2 @@
 #!/bin/bash
-ls $>awk '{if(NR==3) print $0}' iacta
+#ls $>awk '{if(NR==3) print $0}' iacta

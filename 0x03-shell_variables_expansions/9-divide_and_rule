@@ -1,2 +1,2 @@
 #!/bin/bash
-export POWER/DIVIDE="$((42784/32)))"
+echo $((42784/32))

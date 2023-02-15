@@ -1,2 +1,2 @@
 #!/bin/bash
-exprot BREATH="4" LOVE="3" | $((BREATH**LOVE))
+echo $(($BREATH**$LOVE))

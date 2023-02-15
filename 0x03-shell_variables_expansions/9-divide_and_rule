@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $((POWER/DIVIDE))="$((42784/32)))"
